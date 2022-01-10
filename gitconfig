@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fppc1@yahoo.com
+	name = Fred Clausen
